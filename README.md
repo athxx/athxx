@@ -1,10 +1,10 @@
 <h2 align="center">👋 Hello! I'm Athan. </h2>
 
 - 🔭 I’m currently living in New Zealand.
-- 🌱 I’m currently learning .NET Core, Ruby and Front-end, etc
+- 🌱 I’m currently learning Ai
 - 😄 Coding change impact the world!  
 
-Mostly working on rust, golang, php, python.
+Mostly working on rust, golang, python.
 
 <!--
 **athxx/athxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
